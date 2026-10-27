@@ -18,16 +18,9 @@
 
 ## 🧠 About me
 
-```python
-class MoustafaElmehy:
-    role       = "AI Engineer · NLP & LLM applications"
-    based_in   = "Dortmund, Germany 🇩🇪"
-    education  = "B.Sc. Informatik (Data Science) @ FH Dortmund — 2026, thesis graded 1.5"
-    work       = "Data Trust Analyst (working student) @ TELUS International — evaluating AI-generated output"
-    focus      = ["LLM fine-tuning", "RAG & AI agents", "honest model evaluation", "MLOps"]
-    principles = ["dedupe before you split", "no data leakage", "simple model first", "measure, don't guess"]
-    speaks     = {"Arabic": "native", "German": "C1", "English": "B2"}
-```
+<div align="center">
+<img src="./about.svg" alt="About Moustafa Elmehy" width="100%"/>
+</div>
 
 ---
 
